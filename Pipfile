@@ -6,6 +6,15 @@ name = "pypi"
 [packages]
 discord = "*"
 python-dotenv = "*"
+torch = "*"
+torchvision = "*"
+torchaudio = "*"
+numpy = "*"
+transformers = "*"
+datasets = "*"
+tiktoken = "*"
+wandb = "*"
+tqdm = "*"
 
 [dev-packages]
 
